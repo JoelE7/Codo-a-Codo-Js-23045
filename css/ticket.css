@@ -1,0 +1,21 @@
+.grosor{
+    font-weight: 600 !important;
+}
+
+.card-student{
+    border-color: #007BFF !important;
+}
+.card-trainee{
+    border-color: #17A2B8 !important;
+}
+.card-junior{
+    border-color: #FFC107 !important;
+}
+
+.text-summary{
+    color: #3A6FA8;
+}
+
+.bg-information{
+    background-color: #CCE5FF;
+}
